@@ -1,3 +1,5 @@
+![Group 9](https://github.com/user-attachments/assets/fb95298d-3598-47ba-a885-68ab1928da84)
+
 ### 개요 <br>
 ***
 #### SPOT은 실시간 위치 기반 음악 공유 앱으로, 현재 듣고 있는 음악을 주변 사용자와 실시간으로 공유하는 서비스입니다. <br>
